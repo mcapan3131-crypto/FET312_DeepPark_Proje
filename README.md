@@ -1,0 +1,2 @@
+# FET312_DeepPark_Proje
+FET312 DERİN ÖĞRENME PROJESİ
